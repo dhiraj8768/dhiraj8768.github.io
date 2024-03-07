@@ -31,7 +31,7 @@ let existCommands = [
 about = [
   "&nbsp;",
   "&nbsp;",
-  "<span style='color:red;'>01101000 01101001</span> There 👋, I'm <span style='color: yellow;'>Dhiraj Gupta</span> ",
+  "<span style='color:red;'>$sudo </span> Hi There, I'm <span style='color: yellow;'>Dhiraj Gupta</span> ",
   "&nbsp;",
     "With 1.5 years of dedicated experience in ",
     "cybersecurity, I am a seasoned cyber prof ",
