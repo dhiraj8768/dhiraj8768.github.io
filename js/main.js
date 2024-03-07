@@ -44,7 +44,7 @@ function enterKey(e) {
     commands.push(command.innerHTML);
     git = commands.length;
     addLine(
-      'localhost@terminal.sujay:~$ <span class="command">"'+
+      'localhost@terminal.drj:~$ <span class="command">"'+
         command.innerHTML +
         '</span>',
       'liner no-animation',
@@ -86,7 +86,7 @@ function commander(cmd) {
       getDate();
       break;
     case 'whoami':
-      addLine('visitor@sujay.terminal', 'color3', 80);
+      addLine('visitor@drj.terminal', 'color3', 80);
       break;
     case 'cd ..':
       addLine("<span style='color:red;'>can not change directory persmission denied!!</span><br></br>");
