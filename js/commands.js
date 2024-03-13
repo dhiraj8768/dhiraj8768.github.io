@@ -1,8 +1,8 @@
-let twitter = 'http://www.twitter.com/SUJAY_ADKESAR';
-let linkedin = 'https://www.linkedin.com/in/sujay-adkesar-a90725224';
-let github = 'https://github.com/sujayadkesar';
-let website = 'https://sujayadkesar.live';
-let instagram = 'https://www.instagram.com/sujay_adkesar';
+let twitter = 'http://www.twitter.com/*';
+let linkedin = 'https://www.linkedin.com/in/*';
+let github = 'https://github.com/dhiraj8768.github.io';
+let website = 'https://dhiraj8768.github.io';
+let instagram = 'https://www.instagram.com/dhi.raj._';
 let repo = 'https://github.com/sujayadkesar/terminal_portfolio';
 let project = 'https://github.com/sujayadkesar?tab=repositories';
 let project_site = "https://sujayadkesar.live/all-directories/portfolio-project-export/index.html"
@@ -31,21 +31,11 @@ let existCommands = [
 about = [
   "&nbsp;",
   "&nbsp;",
-  "<span style='color:red;'>$sudo </span> Hi There, I'm <span style='color: yellow;'>Dhiraj Gupta</span> ",
+  "<span style='color:red;'>01101000 01101001</span> There 👋, I'm <span style='color: yellow;'>Dhiraj Gupta</span> ",
   "&nbsp;",
-    "With 1.5 years of dedicated experience in ",
-    "cybersecurity, I am a seasoned cyber prof ",
-    "essional specializing in Vulnerability As ",
-    "sessment and Penetration Testing (VAPT).  ",
-    "My passion lies in ensuring the digital   ",
-    "safety and integrity of organizations,    ",
-    "utilizing my expertise to identify and    ",
-    "mitigate potential threats and vulnerabili",
-    "ties. My commitment to staying abreast of ",
-    "the latest trends and techniques in cyber ",
-    "security allows me to provide effective   ",
-    "solutions and safeguard against emerging  ",
-    "risks.",
+  "A Seasoned Web application penetration tester. Thursty to learn and",
+  "explore new technologies and share the knowledge back to the community.",
+  "Currently I am pursuing my b tech in cybersecurity and cyberforensics",
   "&nbsp;",
   "&nbsp;",
   'Connect With me 💫',
@@ -64,8 +54,8 @@ social = [
   'Example : github',
   '----------------',
   '&nbsp;',
-  '<a href="https://github.com/sujayadkesar" style="color: skyblue;">Github</a>',
-  '<a href="https://twitter.com/SUJAY_ADKESAR" style="color: skyblue;">Twitter</a>',
+  '<a href="https://github.com/dhiraj8768.github.io" style="color: skyblue;">Github</a>',
+  '<a href="https://twitter.com/" style="color: skyblue;">Twitter</a>',
   '<a href="https://www.linkedin.com/in/sujay-adkesar-a90725224" style="color: skyblue;">Linkedin</a>',
   '<a href="https://www.instagram.com/sujay_adkesar" style="color: skyblue;">Instagram</a>'
 ];
@@ -108,19 +98,18 @@ help = [
 
  
 banner = [
-'<span style="color: yellowgreen;">visitor@terminal.sujay:~$</span> Welcome',
+'<span style="color: yellowgreen;">visitor@terminal.drj:~$</span> Welcome',
 ' &nbsp;',
 ' &nbsp;',
 ' ',
-"      _      _ _                                ",
-"   __| |_ __(_| )___   ___ _ __   __ _  ___ ___ ",
-"  / _` | '__| |// __| / __| '_ \ / _` |/ __/ _ \",
-" | (_| | |  | | \__ \ \__ \ |_) | (_| | (_|  __/",
-"  \__,_|_| _/ | |___/ |___/ .__/ \__,_|\___\___|",
-"          |__/            |_|                   ",
+
+   "                                  ",
+   "░█▀▄░█▀▄░▀▀█░░░█▀▀░█▀█░█▀█░█▀▀░█▀▀",
+   "░█░█░█▀▄░░░█░░░▀▀█░█▀▀░█▀█░█░░░█▀▀",
+   "░▀▀░░▀░▀░▀▀░░░░▀▀▀░▀░░░▀░▀░▀▀▀░▀▀▀",
 '&nbsp;',
 '&nbsp;',
-" <span style='color:red;'>01101000 01101001</span> There 👋, I'm <span style='color: yellow;'>Dhiraj Gupta</span> ",
+" <span style='color:red;'>01101000 01101001</span> There , I'm <span style='color: yellow;'>Dhiraj Gupta</span> ",
 'Welcome To my Portfolio !',
 ' - - - -',
 '&nbsp;',
@@ -128,22 +117,3 @@ banner = [
 'For a list of available commands, type<span class="command">\'help\'</span> ',
 
 ];
-
-
-          //              ,##,,eew,
-          //            ,##############C
-          //         a###############@##
-          //        7####^`^"7W7^"@####
-          //        @#@b`         ^@#@^
-          //         ##^,,,,   ,,,,^#^
-          //        ,,@######"#######=
-          //         .''555"` '5555b|
-          //         T"@  ,,,^,mg,@,*
-          //            %p||`~~'.#`
-          //             ^Wp  ,#T
-          //            :b''@@b^}
-          //         ,^     ` 'b 3-
-          //     .&lt;` 'p   ^v   #   b   *.
-          //   {      }   #"GpGb   [
-          //   C      3 * @#######Nl      `
-          //  '            ^@##b     ($    !"
