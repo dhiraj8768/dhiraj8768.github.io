@@ -3,8 +3,8 @@ let linkedin = 'https://www.linkedin.com/in/*';
 let github = 'https://github.com/dhiraj8768.github.io';
 let website = 'https://dhiraj8768.github.io';
 let instagram = 'https://www.instagram.com/dhi.raj._';
-let repo = 'https://github.com/sujayadkesar/terminal_portfolio';
-let project = 'https://github.com/sujayadkesar?tab=repositories';
+let repo = 'https://github.com/';
+let project = 'https://github.com/';
 let project_site = "https://sujayadkesar.live/all-directories/portfolio-project-export/index.html"
 let existCommands = [
   'about',
@@ -33,16 +33,16 @@ about = [
   "&nbsp;",
   "<span style='color:red;'>01101000 01101001</span> There 👋, I'm <span style='color: yellow;'>Dhiraj Gupta</span> ",
   "&nbsp;",
-  "A Seasoned Web application penetration tester. Thursty to learn and",
+  "A Seasoned penetration tester. Thursty to learn and",
   "explore new technologies and share the knowledge back to the community.",
-  "Currently I am pursuing my b tech in cybersecurity and cyberforensics",
   "&nbsp;",
   "&nbsp;",
   'Connect With me 💫',
 '&nbsp;',
 // '<p align="center">',
+'<a href="https://www.linkedin.com/in/dhiraj-gupta-7a3845b4" style="color: skyblue;">Linkedin</a>',
+'<a href="https://www.instagram.com/dhi.raj._" style="color: skyblue;">Instagram</a>',
 
-'<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sujay" height="30" width="40" /></a> <a href="https://wa.me/918762406259?text=01101000%2001101001%20%20%F0%9F%91%8B%2C%20SUJAY%20I%20got%20your%20number%20from%20your%20site%20.%20can%20we%20have%20a%20small%20conversation%20now%20%3F%20" target="blank"><img align="center" src="https://user-images.githubusercontent.com/95465072/199298950-3882322d-7527-47d0-ac6b-b81a0ed1a1aa.png" alt="sujay_adkesar" height="45" width="50" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/sujay-adkesar-a90725224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkar5hm" height="30" width="40" /></a> <a href="https://instagram.com/SUJAY_ADKESAR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sujay" height="30" width="40" /></a>',
 
 
 '&nbsp;',
@@ -54,10 +54,8 @@ social = [
   'Example : github',
   '----------------',
   '&nbsp;',
-  '<a href="https://github.com/dhiraj8768.github.io" style="color: skyblue;">Github</a>',
-  '<a href="https://twitter.com/" style="color: skyblue;">Twitter</a>',
-  '<a href="https://www.linkedin.com/in/sujay-adkesar-a90725224" style="color: skyblue;">Linkedin</a>',
-  '<a href="https://www.instagram.com/sujay_adkesar" style="color: skyblue;">Instagram</a>'
+  '<a href="https://www.linkedin.com/in/dhiraj-gupta-7a3845b4" style="color: skyblue;">Linkedin</a>',
+  '<a href="https://www.instagram.com/dhi.raj._" style="color: skyblue;">Instagram</a>'
 ];
 
 
@@ -107,6 +105,9 @@ banner = [
    "░█▀▄░█▀▄░▀▀█░░░█▀▀░█▀█░█▀█░█▀▀░█▀▀",
    "░█░█░█▀▄░░░█░░░▀▀█░█▀▀░█▀█░█░░░█▀▀",
    "░▀▀░░▀░▀░▀▀░░░░▀▀▀░▀░░░▀░▀░▀▀▀░▀▀▀",
+
+
+
 '&nbsp;',
 '&nbsp;',
 " <span style='color:red;'>01101000 01101001</span> There , I'm <span style='color: yellow;'>Dhiraj Gupta</span> ",
