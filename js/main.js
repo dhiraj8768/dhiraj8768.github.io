@@ -147,7 +147,7 @@ function commander(cmd) {
       loopLines(help, 'color margin', 80);
       break;
     case 'pwd':
-      addLine('localhost/sujay/terminal', 'color3', 0);
+      addLine('localhost/drj/terminal', 'color3', 0);
       break;
     default:
       addLine(
